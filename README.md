@@ -15,13 +15,13 @@ To deploy the project using Terraform, follow these instructions:
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/fredydev/moncash-backend
    ```
 
 2. **Navigate to the Project Directory**: Change directory to the project directory.
 
    ```bash
-   cd <project_directory>
+   cd /path/to/moncash-backend
    ```
 
 3. **Initialize Terraform**: Run `terraform init` to initialize the working directory containing Terraform configuration files.
